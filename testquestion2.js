@@ -1,5 +1,5 @@
-let circleX = 20
-let circleY = 20
+let circleX = 50
+let circleY = 50
 
 
 function setup() {
