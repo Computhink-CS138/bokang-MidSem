@@ -8,7 +8,7 @@ function setup() {
 function draw() {
     circle(150, 200, 100);
 
-    triangle(250, 250, 300, 150, 200, 250); 
+    triangle(300, 250, 300, 150, 200, 220); 
 
 
     // fill("black");
