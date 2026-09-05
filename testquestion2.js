@@ -1,4 +1,4 @@
-let circle
+let circleX = 
 
 
 function setup() {
