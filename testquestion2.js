@@ -1,6 +1,6 @@
 let circleX = 50
 let circleY = 50
-let Tfactor = 
+let Tfactor = 1
 
 function setup() {
     createCanvas(600, 600);
@@ -8,7 +8,7 @@ function setup() {
 }
 function draw() {
     for (i = 0; i < 10; i++) {
-        circle(circleX, circleY, 50)
+        circle(circleX * Tfactor, circleY, 50)
 
     }
 }
