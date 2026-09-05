@@ -6,7 +6,10 @@ function setup() {
 }
 
 function draw() {
-    circle(100, 200, 100)
+    circle(100, 200, 100);
+    fill("black");
+    stroke("red");
+    strokeWeight(10);
 }
 
 
