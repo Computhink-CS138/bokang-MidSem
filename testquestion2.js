@@ -3,5 +3,7 @@ function setup() {
     background("grey")
 }
 function draw() {
-    
+    for (i = 0; i < 10; i++) {
+        
+    }
 }
