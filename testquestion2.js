@@ -1,6 +1,6 @@
 let circleX = 50
 let circleY = 50
-let 
+let Tfactor = 
 
 function setup() {
     createCanvas(600, 600);
