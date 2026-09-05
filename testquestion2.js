@@ -1,3 +1,5 @@
 function setup() {
-    createCanva()
+    createCanva(600, 600);
+    
 }
+
