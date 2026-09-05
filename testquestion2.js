@@ -1,7 +1,7 @@
 let circleX = 40
 let circleY = 40
 let Tfactor = 1
-let colour = 
+let colour = 10
 
 
 function setup() {
