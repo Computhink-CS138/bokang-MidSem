@@ -1,6 +1,8 @@
 let circleX = 40
 let circleY = 40
 let Tfactor = 1
+let colour = 
+
 
 function setup() {
     createCanvas(600, 600);
