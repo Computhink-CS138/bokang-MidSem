@@ -8,8 +8,8 @@ function setup() {
     createCanvas(600, 600);
     background("grey")
     for (i = 0; i < 10; i++) {
-        circle(circleX * Tfactor, circleY * Tfactor, 50);
         fill(colour * Tfactor);
+        circle(circleX * Tfactor, circleY * Tfactor, 50);
         Tfactor = Tfactor + 1.4;
     }
 }
