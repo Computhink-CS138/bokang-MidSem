@@ -1,4 +1,5 @@
-let circleX = 
+let circleX = 20
+let circleY = 20
 
 
 function setup() {
@@ -7,6 +8,7 @@ function setup() {
 }
 function draw() {
     for (i = 0; i < 10; i++) {
+        
 
     }
 }
