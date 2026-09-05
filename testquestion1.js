@@ -10,10 +10,12 @@ function draw() {
         //    (x1, y1,  x2,  y2,  x3, y3);
     triangle(340, 250, 270, 150, 200, 250); 
 
+    rect()
 
-    // fill("black");
-    // stroke("red");
-    // strokeWeight(10);
+
+    fill("black");
+    stroke("red");
+    strokeWeight(10);
 }
 
 
