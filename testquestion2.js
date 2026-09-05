@@ -7,9 +7,9 @@ let colour = 10
 function setup() {
     createCanvas(600, 600);
     background("grey")
-    for (i = 0; i < 11; i++) {
+    for (i = 0; i < 10; i++) {
         circle(circleX * Tfactor, circleY * Tfactor, 50);
-        fill("black");
+        fill(colour * Tfactor);
         Tfactor = Tfactor + 1.4;
     }
 }
