@@ -8,7 +8,8 @@ function setup() {
 }
 function draw() {
     for (i = 0; i < 10; i++) {
-        circle(circleX * Tfactor, circleY * Tfactor, 50)
+        circle(circleX * Tfactor, circleY * Tfactor, 50);
+        T
 
     }
 }
