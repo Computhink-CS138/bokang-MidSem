@@ -1,5 +1,5 @@
-let circleX = 50
-let circleY = 50
+let circleX = 40
+let circleY = 40
 let Tfactor = 1
 
 function setup() {
